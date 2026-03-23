@@ -6,20 +6,21 @@ Django, MongoDB, React.js, NLP, Machine Learning, Web Scraping, API Integration.
 
 
 ## Features
-- *Real-time Financial Data*: Fetches live stock market data for analysis.
-- *Sentiment Analysis*: Analyzes news, social media, and market trends.
-- *Machine Learning Predictions*: Uses AI models to predict stock trends.
-- *Interactive Dashboard*: Provides intuitive visualization for traders.
-- *Automated Investment Suggestions*: AI-powered Buy/Sell/Hold recommendations.
+- *Real-time Financial Data* : Fetches live stock market data for analysis.
+- *Sentiment Analysis* : Analyzes news, social media, and market trends.
+- *Machine Learning Predictions* : Uses AI models to predict stock trends.
+- *Interactive Dashboard* : Provides intuitive visualization for traders.
+- *Automated Investment Suggestions* : AI-powered Buy/Sell/Hold recommendations.
 
 # Screenshots 1
+-Home Screen 
 
 
 ![pic-1](https://github.com/Kawinkawin/Stock-Analysis/blob/main/Sample_Img-1.png)
 
 
 # Screenshots 2
-
+ - Prediction Page
 
 ![pic-1](https://github.com/Kawinkawin/Stock-Analysis/blob/main/Sample%20Img-2.png)
 
